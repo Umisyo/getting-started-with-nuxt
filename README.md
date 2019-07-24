@@ -4,6 +4,8 @@
 
 このドキュメントは、初心者がNuxt.jsを用いて簡易なSingle Page Applicationを作れるようになるための資料です。
 
+この資料で作成するアプリケーションの実際のソースコードは[GitHub](github.com/Umisyo/getting-started-with-nuxt)上で公開されています。
+
 この資料は、フレームワークの全てを解説するものではありません。
 Nuxt.jsについてのより詳細な情報は、[公式ドキュメント](ja.nuxtjs.org)を参照してください。
 
